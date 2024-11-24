@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="WebSocket Server Development in Rust"
               description="Designed and implemented a WebSocket server in Rust, enabling real-time data communication by sending byte arrays. Integrated with Microsoft SQL Server (MSSQL) to retrieve and manage data efficiently, ensuring seamless data flow between the server and clients. Leveraged asynchronous programming to enhance performance and scalability, resulting in a robust and responsive application."
-              ghLink="https://github.com/ThulasiVeeraragavan/WebSocket"
+              ghLink="https://github.com/ThulasiVeeraragavan/Web_Server_using_WebSocket"
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Real-Time Dart Game Score Detection System"
               description="Developed a real-time scoring system for dart games using Python and OpenCV, leveraging computer vision techniques to detect dart hits and calculate scores based on dartboard zones (bullseye, double, triple). Integrated Hough Circle Transform for dartboard recognition and built an interactive GUI to adjust scoring ratios and game modes."
-              ghLink="https://github.com/ThulasiVeeraragavan/Dartgame_visual"
+              ghLink="https://github.com/ThulasiVeeraragavan/dartgame_score_calculator"
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Web Server"
               description="web Server build with Rust, Actix-web, and HTML. Have features which allows you to leverage Rust's performance and safety features on the server-side while using HTML to create the user interface and content for web applications."
-              ghLink="https://github.com/ThulasiVeeraragavan/rust_webserver"
+              ghLink="https://github.com/ThulasiVeeraragavan/basic_rust_webserver"
             />
           </Col>
 
