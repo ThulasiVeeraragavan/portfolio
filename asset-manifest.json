@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b194ce72.css",
-    "main.js": "/portfolio/static/js/main.676503b6.js",
+    "main.js": "/portfolio/static/js/main.da1ba96c.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/17.png": "/portfolio/static/media/17.dedf97df0d4fe53e3305.png",
@@ -13,17 +13,17 @@
     "static/media/suicide.png": "/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/14.png": "/portfolio/static/media/14.5f1fbbcf56b211f56ead.png",
     "static/media/2-removebg-preview.png": "/portfolio/static/media/2-removebg-preview.768b492514319a9cf66e.png",
-    "static/media/Thulasiveeraragavan_Resume.pdf": "/portfolio/static/media/Thulasiveeraragavan_Resume.0d7d29e1524765db20d5.pdf",
+    "static/media/Thulasiveeraragavan_Resume.pdf": "/portfolio/static/media/Thulasiveeraragavan_Resume.c33470041df7de66bb43.pdf",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio/index.html",
     "main.b194ce72.css.map": "/portfolio/static/css/main.b194ce72.css.map",
-    "main.676503b6.js.map": "/portfolio/static/js/main.676503b6.js.map",
+    "main.da1ba96c.js.map": "/portfolio/static/js/main.da1ba96c.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b194ce72.css",
-    "static/js/main.676503b6.js"
+    "static/js/main.da1ba96c.js"
   ]
 }
